@@ -56,7 +56,7 @@
     </div>
     <div class="container" style="margin-top: 75px;">
        <center>
-       <span class="page-headers">USERS VIEW</span>
+           <span class="page-headers">USERS&nbsp;&nbsp;&nbsp;VIEW</span>
         </center>
     </div>
         <% 

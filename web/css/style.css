@@ -32,12 +32,14 @@ ul.nav a:hover {
 .panel{
     text-align: center; 
     margin-top: 6%;
-    background-color: rgba(255, 255, 255, 0.6);
+    background-color: rgba(255, 255, 255, 0.5);
 }
 
 .page-headers{
-    background-color: RGB(247, 247, 0, 0.9);
-    color: RGB(255, 77, 77);
+    background-color: #0093e0; 
+    //RGB(247, 247, 0, 0.9);
+    color: #fff; 
+    //RGB(255, 77, 77);
     font-family: 'Monoton', cursive;
     font-size: 30px;
 }
